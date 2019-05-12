@@ -16,8 +16,8 @@ jika file no.txt nya sudah kalian edit/ubah, tinggal kalian jalankan.
 # RUN VIA TERMUX
 
 $ apt update && apt upgrade
-$ apt install python
+$ apt install python2
 $ apt install git
 $ git clone https://github.com/fajarprasetiya/Spam-Sms
 $ cd Spam-Sms
-$ python prank.py
+$ python2 prank.py
